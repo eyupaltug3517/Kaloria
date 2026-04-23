@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Kaloria",
+    "slug": "kaloria",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FAFAF7"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#3a3a3a"
+      },
+      "package": "com.kaloria.app"
+    },
+    "platforms": ["ios", "android", "web"],
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icon.png",
+          "color": "#3a3a3a",
+          "sounds": []
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d6669cde-bb46-45bd-a26f-dd1c77164bfb"
+      }
+    }
+  }
+}

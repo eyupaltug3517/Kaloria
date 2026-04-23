@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "exportedAt": "2026-04-19T10:00:00.000Z",
+  "profile": {
+    "name": "Eyüp Altuğ",
+    "email": "eyup.altug35@gmail.com"
+  },
+  "goals": {
+    "kcal": 2200,
+    "protein": 165,
+    "carbs": 248,
+    "fat": 61,
+    "weight": "80.0",
+    "activity": "High"
+  },
+  "settings": {
+    "units": "metric",
+    "notifications": {
+      "meals": true,
+      "weekly": true,
+      "water": true
+    }
+  },
+  "stats": {
+    "streak": 7
+  },
+  "weightLogs": [
+    { "d": "13 Apr", "kg": 84.2 },
+    { "d": "14 Apr", "kg": 84.0 },
+    { "d": "15 Apr", "kg": 83.7 },
+    { "d": "16 Apr", "kg": 83.5 },
+    { "d": "17 Apr", "kg": 83.3 },
+    { "d": "18 Apr", "kg": 83.1 },
+    { "d": "19 Apr", "kg": 82.8 }
+  ]
+}

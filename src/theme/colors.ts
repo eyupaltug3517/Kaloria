@@ -1,0 +1,16 @@
+export const C = {
+  bg: '#FAFAF7',
+  ink: '#0E0E0C',
+  ink2: '#3A3A36',
+  ink3: '#6B6B64',
+  ink4: '#A4A49C',
+  line: '#E8E8E2',
+  line2: '#F0F0EA',
+  card: '#FFFFFF',
+  accent: '#C9F24D',
+  accentInk: '#1A2310',
+  danger: '#E06A4A',
+  water: '#6BAEE0',
+  move: '#E8B04A',
+  surface: '#F7F7F2',
+} as const;
