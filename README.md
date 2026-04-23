@@ -14,14 +14,13 @@
 
 > Ekran görüntülerini `assets/screenshots/` klasörüne ekleyip aşağıdaki satırların yorumunu kaldırın.
 
-<!--
 <p align="center">
-  <img src="assets/screenshots/dashboard.png" width="200" />
-  <img src="assets/screenshots/meals.png"     width="200" />
-  <img src="assets/screenshots/report.png"    width="200" />
-  <img src="assets/screenshots/profile.png"   width="200" />
+  <img src="assets/screenshots/onboarding.png" width="200" />
+  <img src="assets/screenshots/dashboard.png"  width="200" />
+  <img src="assets/screenshots/report.png"     width="200" />
+  <img src="assets/screenshots/weight.png"     width="200" />
+  <img src="assets/screenshots/profile.png"    width="200" />
 </p>
--->
 
 ---
 
