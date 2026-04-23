@@ -12,7 +12,6 @@
 
 ## 📱 Ekran Görüntüleri
 
-> Ekran görüntülerini `assets/screenshots/` klasörüne ekleyip aşağıdaki satırların yorumunu kaldırın.
 
 <p align="center">
   <img src="assets/screenshots/onboarding.png" width="200" />
